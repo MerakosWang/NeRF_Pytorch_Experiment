@@ -8,15 +8,6 @@
 <br>
 
 
-
-<img src="./IMG/logo.png" width="355">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ### NeRF-Pytorch Experiment
 
 <br>
