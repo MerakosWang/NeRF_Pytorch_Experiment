@@ -42,8 +42,9 @@ def get_frame_from_video(video_name, interval):
             break
 
 
+
 if __name__ == '__main__':
-    video_name = './233.mp4'  # 视频文件名字
+    video_name = './Trim4.mp4'  # 视频文件名字
     interval = 5
     get_frame_from_video(video_name, interval)
 

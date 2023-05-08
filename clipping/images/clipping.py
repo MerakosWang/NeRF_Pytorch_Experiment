@@ -21,7 +21,7 @@ def countFile(dir):
 
 
  
-filenum = 74  # 返回的是图片的张数
+filenum = 124  # 返回的是图片的张数
 print(filenum)
  
 # filenum
